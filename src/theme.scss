@@ -1,0 +1,36 @@
+/* Generated from sites/homemade-with-heart/site.json. */
+:root {
+  --bg: #fbf8f4;
+  --bg-alt: #f3ece3;
+  --surface: #ffffff;
+  --ink: #2b2321;
+  --muted: #6e625d;
+  --line: #e9dfd3;
+  --accent: #b3254b;
+  --accent-strong: #8c1c3a;
+  --accent-ink: #ffffff;
+  --accent-soft: #f8dfe5;
+  --accent-on-dark: #f0a3b6;
+  --dark: #2b2321;
+  --dark-ink: #fbf8f4;
+  --error: #b42318;
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-body: 'Nunito Sans', 'Helvetica Neue', Arial, sans-serif;
+  --display-weight: 600;
+  --display-tracking: -0.01em;
+  --radius: 16px;
+  --button-radius: 999px;
+  --hero-position: center 35%;
+  --logo-ratio: 1;
+  --product-position: center;
+  --topbar-bg: #ffffff;
+  --topbar-ink: #2b2321;
+  --topbar-line: #e9dfd3;
+  --product-fit: cover;
+  --product-bg: #fbf8f4;
+  --logo-bg: #ffffff;
+  --logo-pad: 0.3rem 0.5rem;
+  --gutter: clamp(1rem, 4vw, 3rem);
+  --max-width: 1200px;
+  color-scheme: light;
+}
